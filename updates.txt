@@ -1,1 +1,1 @@
-No new updates
+"<span style="color:red">No new updates</span>"
