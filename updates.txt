@@ -1,1 +1,1 @@
-<span style="color:red;font-size:20px">New update</span><span>Please navigate to <a href="somelink">the updates page</a> for more information.</span>
+No new updates
